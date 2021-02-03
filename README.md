@@ -1,4 +1,3 @@
 # My first ASTR 302 git repository
-HAHA super cool github file
-cool message imo
-having fun learning GIT
+super cool github file,
+having fun learning git

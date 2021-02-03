@@ -1,3 +1,4 @@
 # My first ASTR 302 git repository
-I just flipped the switch
-eeeee
+HAHA super cool github file
+cool message imo
+having fun learning GIT
